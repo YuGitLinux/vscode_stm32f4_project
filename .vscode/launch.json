@@ -53,7 +53,7 @@
             "externalConsole": true,
             "filterStderr": true,
             "filterStdout": false,
-            //"preLaunchTask": "make debug",
+            "preLaunchTask": "make",
             "miDebuggerServerAddress": "localhost:3333",
             "serverLaunchTimeout": 5000,
             "windows": {
